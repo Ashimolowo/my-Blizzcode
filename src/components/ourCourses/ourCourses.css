@@ -143,15 +143,21 @@ img{
         font-size: 18px;
       margin-left: -90px;
     }
+    .content-div h4{
+        display: flex;
+        gap: 60px;
+    }
 
     h4 .h41{
-        margin:0 10px 0 -60px;
+        margin:0 10px 0 -0px;
+        font-size: large;
     }
     img{
         height: 80px;
         width: 140px;
         right: 50px;
         bottom: 16px;
+        display: none;
     }
 
     .content-div button{
@@ -160,6 +166,9 @@ img{
         position: absolute;
         bottom: 40px;
         right: -50px;
+     }
+     .content-div button>.button-icon{
+        background: none;
      }
 
   

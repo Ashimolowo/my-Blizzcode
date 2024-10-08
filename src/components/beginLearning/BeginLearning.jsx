@@ -36,7 +36,7 @@ const BeginLearning = () => {
            </div>
             
             <div className="button">
-            <Link className='button-light one' to={'./signup'}>Begin your Learning Journey<i className="bx bx-right-arrow-alt button-icon"></i></Link>
+            <Link className='button-light one' to='./signup'>Begin your Learning Journey<i className="bx bx-right-arrow-alt button-icon"></i></Link>
             </div>
         
         </div>

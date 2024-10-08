@@ -3,6 +3,7 @@ boby, html {
   box-sizing: border-box;
   background-color: #f2f8fd;
   overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 #root {

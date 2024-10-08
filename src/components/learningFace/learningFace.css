@@ -268,3 +268,8 @@ h3:hover{
 
 }
 
+@media  (max-width: 600px) {
+    body{
+        margin: 0 auto;
+    }
+}
